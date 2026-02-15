@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "materia": "Português",
+    "titulo": "Crase",
+    "data": "15/02/2026",
+    "blocos": [
+      {
+        "tipo": "imagem",
+        "url": "https://static.todamateria.com.br/upload/cr/as/crasedica1-cke.jpg"
+      },
+      {
+        "tipo": "cespe",
+        "conteudo": "Pode usar crase em palavras masculinas?",
+        "gabarito": "E"
+      },
+      {
+        "tipo": "fgv",
+        "conteudo": "Questão – Crase (Estilo FGV)\n\nAssinale a alternativa em que o uso do acento indicativo de crase está correto.\n\nA) O candidato fez referência à documentos oficiais durante a prova.\nB) A reunião ocorrerá às 14 horas, conforme previsto no edital.\nC) Os servidores estavam dispostos à colaborar com a investigação.\nD) O relatório foi encaminhado à cada setor responsável.\nE) A decisão foi tomada à partir das novas diretrizes.",
+        "gabarito": "B"
+      },
+      {
+        "tipo": "texto",
+        "conteudo": "A crase é o fenômeno que ocorre quando há a fusão de dois sons idênticos da vogal “a”. Na prática, ela aparece quando se juntam:\n\na preposição “a” (exigida por um verbo, nome ou expressão)\n\no artigo feminino “a” ou “as” (que acompanha um substantivo feminino).\n\nEssa fusão é indicada graficamente pelo acento grave (à)."
+      }
+    ]
+  }
+]
