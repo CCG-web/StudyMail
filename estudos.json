@@ -3,7 +3,12 @@
     "materia": "Geografia",
     "titulo": "5. Formação territorial e \r\ndivisão político-administrativa (organização federativa).",
     "data": "17/02/2026",
-    "blocos": []
+    "blocos": [
+      {
+        "tipo": "texto",
+        "conteudo": "Emancipação é um processo na qual um distrito deixa de fazer parte de um município maior para um município autônomo com administração própria"
+      }
+    ]
   },
   {
     "materia": "Geografia",
@@ -27,7 +32,12 @@
     "materia": "Geografia",
     "titulo": "2. Aspectos físicos do Brasil e meio ambiente no Brasil (grandes domínios de clima, \r\nvegetação, relevo e hidrografia; ecossistemas).",
     "data": "16/02/2026",
-    "blocos": []
+    "blocos": [
+      {
+        "tipo": "texto",
+        "conteudo": "O cerrado ( bioma predominante no Tocantins ) é caracterizado por uma vegetação de savana, com árvores baixas e esparsas, troncos retorcidos, folhas grossas e raízes longas."
+      }
+    ]
   },
   {
     "materia": "Geografia",
