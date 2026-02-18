@@ -25,11 +25,11 @@
     "blocos": [
       {
         "tipo": "texto",
-        "conteudo": "A migração pendular é o deslocamento diário e temporário de pessoas entre o local de residência e trabalho ou estudo, geralmente de cidades vizinhas (\"cidades-dormitório\") para um centro urbano maior, retornando no mesmo dia."
+        "conteudo": "**Densidade demográfica**, densidade populacional ou população relativa é a medida expressa pela relação entre a população e a superfície do território, geralmente aplicada a seres humanos, mas também em outros seres vivos. É sempre expressa em habitantes por quilômetro quadrado."
       },
       {
         "tipo": "texto",
-        "conteudo": "**Densidade demográfica**, densidade populacional ou população relativa é a medida expressa pela relação entre a população e a superfície do território, geralmente aplicada a seres humanos, mas também em outros seres vivos. É sempre expressa em habitantes por quilômetro quadrado."
+        "conteudo": "A **migração pendular** é o deslocamento diário e temporário de pessoas entre o local de residência e trabalho ou estudo, geralmente de cidades vizinhas (\"cidades-dormitório\") para um centro urbano maior, retornando no mesmo dia."
       }
     ]
   },
