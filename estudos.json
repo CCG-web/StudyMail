@@ -14,7 +14,12 @@
     "materia": "Geografia",
     "titulo": "4. Dinâmica da população brasileira: \r\nf\r\nluxos migratórios, áreas de crescimento e de perda populacional.",
     "data": "17/02/2026",
-    "blocos": []
+    "blocos": [
+      {
+        "tipo": "texto",
+        "conteudo": "A migração pendular é o deslocamento diário e temporário de pessoas entre o local de residência e trabalho ou estudo, geralmente de cidades vizinhas (\"cidades-dormitório\") para um centro urbano maior, retornando no mesmo dia."
+      }
+    ]
   },
   {
     "materia": "Geografia",
