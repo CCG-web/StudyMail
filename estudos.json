@@ -6,15 +6,15 @@
     "blocos": [
       {
         "tipo": "texto",
-        "conteudo": "Emancipação é um processo na qual um distrito deixa de fazer parte de um município maior para um município autônomo com administração própria"
-      },
-      {
-        "tipo": "texto",
         "conteudo": "A O início da colonizacão do Brasil ocorreu em 1500\n\nB A colonizacao do Brasil ocorreu no período historico denominado como \"As Grandes Navegações\"\n\nC Foram feitos varios acordos e tratados para a formacao da atual fronteira do Brasil, como o Tratado de Madri\n\nE A linha imaginaria do Tratado de Tordesilhas dividia as terras do atual territorio brasileiro entre a Coroa Portuguesa e a Coroa Espanhola"
       },
       {
         "tipo": "texto",
         "conteudo": "O Brasil é uma República Federativa organizada política e administrativamente em estados, municípios e distritos. Para administrar o país, existe uma divisão hierárquica em governos: **federal, estadual e municipa**l . Os 26 estados brasileiros, além do Distrito Federal, compõem a República Federativa do Brasil."
+      },
+      {
+        "tipo": "texto",
+        "conteudo": "**Emancipação** é um processo na qual um distrito deixa de fazer parte de um município maior para um município autônomo com administração própria"
       }
     ]
   },
